@@ -1,0 +1,11 @@
+{
+  "name": "sense-extension-contrib",
+  "version": "1.0.0",
+  "description": "\"foo\"",
+  "scripts": {
+    "docs": "docker run -v ${PWD}:/opt/verb stefanwalther/verb"
+  },
+  "repository": "https://github.com/stefanwalther/sense-extension-contrib",
+  "author": "Stefan Walther",
+  "license": "MIT"
+}
