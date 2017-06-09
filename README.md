@@ -1,3 +1,3 @@
 # sense-extension-contrib
-> "foo"
+> Information how to build and contribute to the Qlik Sense extensions I have built.
 
