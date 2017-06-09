@@ -7,5 +7,26 @@
   },
   "repository": "https://github.com/stefanwalther/sense-extension-contrib",
   "author": "Stefan Walther",
-  "license": "MIT"
+  "license": "MIT",
+  "verb": {
+    "run": true,
+    "toc": true,
+    "layout": "empty",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": []
+    },
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb",
+      "verb-readme-generator"
+    ]
+  }
 }
